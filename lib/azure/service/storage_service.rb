@@ -78,7 +78,7 @@ module Azure
       end
 
       def service_properties_headers
-        {'x-ms-version' => '2014-02-14'}
+        {'x-ms-version' => '2016-05-31'}
       end
 
     end
